@@ -1,4 +1,4 @@
-package org.example.annotation.general.override;
+package dev.annotation.general.override;
 
 public class Child extends Parent {
 

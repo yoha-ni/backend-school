@@ -1,4 +1,4 @@
-package org.example.jvm.oom.lotto;
+package dev.jvm.oom.lotto;
 
 import java.util.ArrayList;
 import java.util.Collections;

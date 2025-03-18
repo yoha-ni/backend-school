@@ -1,4 +1,4 @@
-package org.example.annotation.general.suppersswarnings;
+package dev.annotation.general.suppersswarnings;
 
 import java.util.ArrayList;
 import java.util.List;

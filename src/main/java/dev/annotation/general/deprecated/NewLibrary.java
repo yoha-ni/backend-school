@@ -1,4 +1,4 @@
-package org.example.annotation.general.deprecated;
+package dev.annotation.general.deprecated;
 
 public class NewLibrary {
 

@@ -1,4 +1,4 @@
-package org.example.annotation.general.safevarargs;
+package dev.annotation.general.safevarargs;
 
 public class SafeVarargsExample {
     @SafeVarargs
